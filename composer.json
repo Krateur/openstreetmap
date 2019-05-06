@@ -1,0 +1,12 @@
+{
+    "name": "krateur/openstreetmap",
+    "authors": [
+        {
+            "name": "krateur",
+            "email": "gjacksongomez@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
